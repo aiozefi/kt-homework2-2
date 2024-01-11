@@ -1,5 +1,5 @@
 fun main() {
-    val likesCount = 61 // Rоличество лайков
+    val likesCount = 61 // Количество лайков
 
     val formattedText = formatLikesText(likesCount)
     println(formattedText)
